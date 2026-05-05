@@ -30,3 +30,5 @@ The model gives around 75% accuracy.
 
 ## Note
 This project was done as part of CodSoft Internship Task 1.
+## Dataset
+The Titanic dataset is loaded using the seaborn library, which provides a built-in version of the dataset for analysis.
